@@ -9,7 +9,7 @@
 // let country = 'Czech'
 // let age = 24
 
-let firstName = 'Matus', lastName = 'Bohucky', maritalStatus = 'single',country = 'Czech', age = 24
+let firstName = 'Matus', lastName = 'Bohucky', maritalStatus = 'single',country = 'Czech', age = 24 //
 
 const myAge = 24
 const yourAge = 30
